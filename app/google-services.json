@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "993544926695",
+    "firebase_url": "https://locateme-1bcb2.firebaseio.com",
+    "project_id": "locateme-1bcb2",
+    "storage_bucket": "locateme-1bcb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993544926695:android:e214b54bbe42da0a297942",
+        "android_client_info": {
+          "package_name": "com.famousb.locateme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993544926695-j2erj50at3addvhj1rpats8pmf6eb8n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4tY58pxdsRjc64sv-gcRDJzJ65L3InzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993544926695-j2erj50at3addvhj1rpats8pmf6eb8n3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
